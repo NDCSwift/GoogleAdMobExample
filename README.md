@@ -5,6 +5,7 @@
 Replace the GADApplicationIdentifier value to your App's ID found within the [Dashboard](https://admob.google.com/) of admob
 Test with test ID's until app launch to avoid ban from admob!
 [Found Here](https://developers.google.com/admob/ios/test-ads) 
+Package Dependencies: [Google Ads SPM](https://github.com/googleads/swift-package-manager-google-mobile-ads.git)
 
 ## 1. Clone the Repo
 ```bash
